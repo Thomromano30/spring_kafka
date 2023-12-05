@@ -1,0 +1,9 @@
+/media/thomr/Volume/code lavoro/kafka/spring-kafka/src/main/java/com/example/springkafka/controller/JsonMessageController.java
+/media/thomr/Volume/code lavoro/kafka/spring-kafka/src/main/java/com/example/springkafka/SpringKafkaApplication.java
+/media/thomr/Volume/code lavoro/kafka/spring-kafka/src/main/java/com/example/springkafka/config/KafkaTopicConfig.java
+/media/thomr/Volume/code lavoro/kafka/spring-kafka/src/main/java/com/example/springkafka/kafka/JsonKafkaConsumer.java
+/media/thomr/Volume/code lavoro/kafka/spring-kafka/src/main/java/com/example/springkafka/kafka/KafkaConsumer.java
+/media/thomr/Volume/code lavoro/kafka/spring-kafka/src/main/java/com/example/springkafka/controller/MessageController.java
+/media/thomr/Volume/code lavoro/kafka/spring-kafka/src/main/java/com/example/springkafka/kafka/KafkaProducer.java
+/media/thomr/Volume/code lavoro/kafka/spring-kafka/src/main/java/com/example/springkafka/kafka/JsonKafkaProducer.java
+/media/thomr/Volume/code lavoro/kafka/spring-kafka/src/main/java/com/example/springkafka/payload/User.java

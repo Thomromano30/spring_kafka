@@ -1,0 +1,10 @@
+bin/kafka-console-consumer.sh --topic sus --from-beginning --bootstrap-server localhost:9092
+
+/opt/kafka/bin/kafka-console-consumer.sh --topic json_sus --from-beginning --bootstrap-server localhost:9092
+
+/opt/bitnami/kafka/bin/kafka-console-consumer.sh --topic json_sus --from-beginning --bootstrap-server localhost:9092
+
+
+per vedere il json basta cambiare topic
+
+which "cosa da trovare"
