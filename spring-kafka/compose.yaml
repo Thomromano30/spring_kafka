@@ -6,6 +6,8 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+    environment:
+      SPRING_KAFKA_BOOTSTRAPSERVERS: kafka:29092
     ports:
       - "8080:8080"
     networks:
