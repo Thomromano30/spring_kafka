@@ -1,5 +1,5 @@
-
-FROM maven:3-openjdk-17-slim AS builder
+#4
+FROM maven:4-openjdk-17-slim AS builder
 
 WORKDIR /home/app
 # Clona la repo Git
